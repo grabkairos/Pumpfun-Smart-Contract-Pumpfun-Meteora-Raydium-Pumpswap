@@ -43,21 +43,4 @@ The **Pump.fun Smart Contract forking** is an innovative platform  designed to a
   - Migration: [https://solscan.io/tx/3G43Gty6JwmGjyToKoeKAQLwuC42AXrCw7gp2KFnZrdahEepRnU4ZoKtN6wfjoxH9FnFrPToiPbMmDoeAWcXodQF?cluster=devnet]
   - Lock: [https://solscan.io/tx/jeMaznRax6w37GDco581AnZnU6sqAinwRiHD5nBC19fpNUzUzKvPwCey7aynHUydzMXV7kDdHiBY52eCcETeoyV?cluster=devnet]
 
-## 📞 Contact Info
 
-**Telegram**: [@Tru3B1iss](https://t.me/Tru3B1iss)
-**X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
-**Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
-
-## 🍵 Tip
-
-### If you are intereseted in my projects, please 🔗fork or give me ⭐star
-
-> Note: The frontend and backend components are developed and maintained privately. The complete implementation including Raydium and Meteora migration features, along with other detailed code, is reserved for private access. Please contact us for more information about the project's features and capabilities.
-
-## Disclaimer
-
-This project is for educational and development purposes only. Users should conduct their own research and due diligence before interacting with any smart contracts.
-
-### ⭐ **Support the Project**  
-If you find this project useful, consider **starring** the repository to show your support! 🌟  
